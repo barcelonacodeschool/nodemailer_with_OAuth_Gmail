@@ -1,4 +1,4 @@
-# Nodemailer deom with OAuth2 and Gmail
+# Nodemailer demo with OAuth2 and Gmail
 
 ## How to use:
 
