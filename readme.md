@@ -3,7 +3,7 @@
 ## How to use:
 
 1. Fork this repo 
-2. `git clone URO_OF_THE_REPO`
+2. `git clone URL_OF_THE_REPO`
 3. In the root folder `npm i` to install the dependencies
 4. In the "client" folder run `npm i` to install the dependencies
 5. Fill out '.env' file with your credentials from Google Gmail API
